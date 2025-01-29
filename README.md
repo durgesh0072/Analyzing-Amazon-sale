@@ -22,7 +22,14 @@ PYTHON
 TOOLS:
 Jupyter Notebook, Power BI, MS Excel
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-PowerBI Dashboard:
+PowerBI Dashboard:Hello everyone,
+
+I am excited to share with you my project on Amazon sales data analysis! As part of my internship with iNeuron, I had the opportunity to work on this project and gain valuable insights into analyzing sales data.
+
+In this project, I used Python to analyze Amazon sales data and created visualizations to better understand trends and patterns. I also used machine learning algorithms to make predictions about future sales.
+
+I had a great time working on this project and learned a lot in the process. I hope it inspires you to dive into data analysis and explore the insights that can be gained from it.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/20ce4300-345b-4cdd-8f2c-087cd1e7045f)
 
