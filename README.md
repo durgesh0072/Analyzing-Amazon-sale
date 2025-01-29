@@ -22,7 +22,9 @@ PYTHON
 TOOLS:
 Jupyter Notebook, Power BI, MS Excel
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-PowerBI Dashboard:Hello everyone,
+PowerBI Dashboard:
+
+Hello everyone,
 
 I am excited to share with you my project on Amazon sales data analysis! As part of my internship with iNeuron, I had the opportunity to work on this project and gain valuable insights into analyzing sales data.
 
